@@ -10,8 +10,8 @@
   "author": "Microsoft Coporation",
   "license": "MIT",
   "dependencies": {
-    "azure-devops-node-api": "^10.1.1",
-    "azure-pipelines-task-lib": "^2.9.5",
+    "azure-devops-node-api": "^10.2.2",
+    "azure-pipelines-task-lib": "^5.2.10",
     "common": "file:../common/msix-tasks-helpers-1.0.0.tgz"
   },
   "devDependencies": {
